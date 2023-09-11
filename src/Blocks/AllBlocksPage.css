@@ -1,0 +1,7 @@
+.rc-pagination-next button:after{
+    content: '>';
+}
+
+.rc-pagination-prev button:after{
+    content: '<';
+}

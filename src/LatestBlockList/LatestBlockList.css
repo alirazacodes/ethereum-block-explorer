@@ -1,0 +1,9 @@
+#latest_block_list .block-number-div{
+    width: 150px;
+}
+
+#latest_block_list .receipint-div{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
